@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SnowLune/employee-tracker#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "table": "^6.8.0"
   }
 }
